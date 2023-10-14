@@ -1,0 +1,57 @@
+.card-container{
+    display: block;
+}
+table {
+    width: 85%;
+}
+
+table,
+th,
+td {
+    border: 1px solid #B9B9B9;
+    border-collapse: collapse;
+    font-size: 13px;
+    padding: 5px 3px;
+    text-align: center;
+}
+
+thead {
+
+    background-color: #0B0273;
+    color: #FFFFFF;
+}
+
+.bottom-container{
+    width: 85%;    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+
+.bottom-container button{
+    border: 1px solid #000; 
+    color: #ffffff;
+    background-color: #05095f;
+    padding: 3px 5px;
+}
+
+.bottom-container button:hover{
+    color: #ffffff;
+    background-color: #171487;
+}
+.bottom-container button:active{
+    color: #ffffff;
+    background-color: #110e61;
+}
+
+@media screen and (max-width: 1023px){
+    h2{
+        text-align: center;
+    }
+    table, .bottom-container{
+        margin: auto;
+    }
+}
+

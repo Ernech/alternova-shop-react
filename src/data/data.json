@@ -1,0 +1,75 @@
+    [   
+        { 
+            "id":"1",
+            "name": "iPhone 14 Pro Max", 
+            "unitPrice": 5000, 
+            "stock": 5, 
+            "type": "technology",
+            "image":"https://www.compraderas.com.bo/wp-content/uploads/2022/10/iPhone-14-Pro-Max-128gb-dorado.jpg"
+        }, 
+        { 
+        "id":"2",    
+        "name":"Timon Racing Carrera", 
+            "unitPrice": 8000, 
+            "stock": 2, 
+            "type": "technology",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-35MgHMI2ZOFUunYydZ4MxPpXCd2AXW_3g&usqp=CAU"
+        }, 
+        { 
+        "id":"3",    
+        "name": "Control joystick inalámbrico", 
+            "unitPrice": 1000, 
+            "stock": 1, 
+            "type": "technology",
+            "image": "https://sologamerbolivia.com/cdn/shop/files/71cY_1dSNnL.jpg?v=1692026588&width=823"
+        }, 
+        { 
+        "id":"4",    
+        "name": "Bicicicleta Roadmaster", 
+            "unitPrice": 1800, 
+            "stock": 1, 
+            "type": "sport",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7RRD1S_pHG9ILdDoMBZGudfm09rpUEObtxJWLSLsJC66oPqNJHh-nmqlYMxj3d8J-pU&usqp=CAU" 
+        }, 
+        { 
+        "id":"5",    
+        "name": "Bicicleta Todo Terreno", 
+            "unitPrice": 200, 
+            "stock": 0, 
+            "type": "sport",
+            "image":"https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3595149-750-750/20041428.jpg" 
+        },
+        {
+            "id":"6",
+            "name": "Balon De Futbol",
+            "unitPrice": 120,
+            "stock": 6,
+            "type": "sport",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn56gO4UDpzmKJv0kkDIgHGYWZcaRxNxzt18S4dESbMCbkOEePyk7BBNpvw2qixfEZnV8&usqp=CAU"
+        },
+        {
+            "id":"7",
+            "name": "Ducha Electrica",
+            "unitPrice": 120,
+            "stock": 8,
+            "type": "building",
+            "image":"https://olimpica.vtexassets.com/arquivos/ids/889392/image-e6a2dc55f6f341a7a11fffdb1dccfc98.jpg?v=637964327980400000"
+        },
+        {
+            "id":"8",
+            "name": "Gabinete De Baño",
+            "unitPrice": 650,
+            "stock": 10,
+            "type": "building",
+            "image":"https://multicenter.vtexassets.com/arquivos/ids/177155-800-auto?v=636407256547900000&width=800&height=auto&aspect=true"
+        },
+        {
+            "id":"9",
+            "name": "Mueble Sanitario",
+            "unitPrice": 900,
+            "stock": 2,
+            "type": "building",
+            "image":"https://www.hola.com/imagenes/decoracion/20230111223872/muebles-bano-estilo-almacenaje-il/1-184-820/mueble-bano-estilo-almacenaje-01e-e.jpg"
+        }
+    ]   
+   

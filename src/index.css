@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container{
+  width: 100vw;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 2%;
+  grid-template-rows: 100%;
+  margin-bottom: 2%;
+}
+
+
+@media screen and (max-width: 1023px){
+  .main-container{
+    /* margin-top: 450px;  */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px;
+  }
+   
+  
+} 
